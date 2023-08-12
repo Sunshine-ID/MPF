@@ -21,6 +21,8 @@ $ pip install mechanize
 
 $ git clone https://github.com/Sunshine-ID/MPF
 
+$ ls
+
 $ cd MPF
 
 $ ls
